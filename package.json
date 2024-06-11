@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "\"This is my first electron app\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "test",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "first-electron-app"
+  },
+  "author": "Satyajit Namasudra",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.1.0"
+  }
+}
